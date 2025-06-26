@@ -15,11 +15,10 @@ A simple and functional To-Do List web application built with **Python (Flask)**
 - **Backend**: Python, Flask
 - **Frontend**: HTML, Bootstrap (for basic styling)
 
-## Some Demo images:
+## 🖼️ Demo screenshots:
 
-<img src="./demo_images/1.png" alt="List of tasks page" width="350" />
-<img src="./demo_images/2.png" alt="Add new task page" width="350" />
-<img src="./demo_images/3.png" alt="Edit a task page" width="350" />
+<img src="./demo_images/2.png" alt="Add new task page" width="350" /> <img src="./demo_images/3.png" alt="Edit a task page" width="350" />
+<img src="./demo_images/1.png" alt="List of tasks page" width="350" /> 
 
 ## 🚀 Getting Started
 
